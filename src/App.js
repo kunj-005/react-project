@@ -28,19 +28,19 @@ const projects = [
     name: "Portfolio Website",
     description: "A personal portfolio website built with React.",
     link: "https://github.com/johndoe/portfolio",
-    image: "https://via.placeholder.com/300x200",
+    image: "/portfolio.png",
   },
   {
     name: "Todo App",
     description: "A simple to-do app using React and local storage.",
     link: "https://github.com/johndoe/todo-app",
-    image: "https://via.placeholder.com/300x200",
+    image: "/todo.png",
   },
   {
     name: "Weather App",
     description: "A weather forecast app that fetches data from an API.",
     link: "https://github.com/johndoe/weather-app",
-    image: "https://via.placeholder.com/300x200",
+    image: "/weather.png",
   },
 ];
 
